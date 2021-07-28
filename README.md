@@ -9,3 +9,4 @@ https://startbootstrap.com/theme/sb-admin-2
 - Home and dashboard only accessible for `valid users`
 - Master web forms used to generate `scaffolding` structure
 - Internal C# classes for `user data` and `connection strings`
+- Migration of old `HTML` syntax to `ASP` which provides C# support for more control
