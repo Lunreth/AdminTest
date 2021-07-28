@@ -2,6 +2,7 @@
 Simple `SB Admin 2` Template with `Login` and `Register` validation
 
 Using: https://startbootstrap.com/theme/sb-admin-2
+Tool: Visual Studio Community 2019
 
 # Features
 - Login and registration forms with `SQL` support
